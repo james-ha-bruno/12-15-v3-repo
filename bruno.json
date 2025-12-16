@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "demo-gh-tem-collection",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
